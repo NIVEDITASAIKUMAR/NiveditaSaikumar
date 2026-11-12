@@ -28,4 +28,4 @@ Data Science | Machine Learning | Data Analytics
 
 ### 🤝 Let's Connect
 
-- LinkedIn: Add your LinkedIn URL here
+- LinkedIn: www.linkedin.com/in/nivedita-krishnamurthy-44739020a
