@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Nivedita! 👋
 
-<!--
-**NIVEDITASAIKUMAR/NiveditaSaikumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Scientist | Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+Electronics and Telecommunication Engineering graduate transitioning into Data Science and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy exploring data, identifying patterns, and building data-driven solutions to real-world problems.
+
+### 🛠️ Technical Skills
+
+- **Programming:** Python, SQL
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+- **Data Analysis:** Data Cleaning, EDA, Data Visualization
+- **Machine Learning:** Regression, Classification, Clustering, Collaborative Filtering
+- **Tools:** Jupyter Notebook, Google Colab, Excel
+
+### 📊 Projects
+
+**1. Clustering Global Development**
+- Exploring global development patterns using clustering techniques.
+
+**2. Book Recommendation System**
+- Built using User-to-User Collaborative Filtering to recommend books based on user similarity.
+
+### 🎯 Career Interests
+
+Data Science | Machine Learning | Data Analytics
+
+### 🤝 Let's Connect
+
+- LinkedIn: Add your LinkedIn URL here
